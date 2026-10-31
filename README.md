@@ -31,6 +31,10 @@ I'm an engineer interested in **control engineering and vehicle dynamics**, with
 
 **MATLAB** — numerical analysis, modeling, simulation, and visualization.
 
+## Hobby Development
+
+Outside of work, I'm developing applications as a hobby using **C++**, **C#**, and **Swift**.
+
 ## Engineering Approach
 
 - **Reproducibility:** Make analyses and simulations repeatable.
